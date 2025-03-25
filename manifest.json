@@ -1,0 +1,10 @@
+{
+    "id": "auto-daily-note",
+    "name": "Auto Daily Note",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically creates today's daily note. Daily note plugin must be enabled",
+    "author": "Dimas Andrian",
+    "authorUrl": "",
+    "isDesktopOnly": false
+}
