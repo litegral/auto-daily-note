@@ -31,7 +31,6 @@ export default class AutoDailyNotePlugin extends Plugin {
             // If note doesn't exist, create it
             if (!existingNote) {
                 await createDailyNote(moment);
-                console.log('Daily note created');
             }
         } catch (error) {
             console.error('Error creating daily note:', error);
